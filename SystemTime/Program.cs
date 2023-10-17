@@ -5,12 +5,8 @@ namespace BT
     {
         static void Main(string[] args)
         {
-            float width, height;
-            Console.Write("Nhap chieu dai va chieu rong:");
-            width = float.Parse(Console.ReadLine());
-            height = float.Parse(Console.ReadLine());
-            float area = width * height;
-            Console.WriteLine(area);
+            DateTime localDate = DateTime.Now;
+            System.Console.WriteLine("Datetime Now is :" + localDate);
         }
     }
 }
