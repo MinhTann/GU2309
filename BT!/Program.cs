@@ -5,26 +5,17 @@ namespace MinhTan
     {
         static void Main(string[] args)
         {
-            float Toan, Ly, Hoa, diemtrungbinh;
+            int tuoi;
+            Console.WriteLine("Nhap so tuoi cua ban"); 
+            tuoi = int.Parse(Console.ReadLine());
+            if(tuoi <= 0 && tuoi >= 120 && tuoi != number)
             
-            Console.WriteLine("Nhap diem theo thu tu Toan, Ly, Hoa: ");
-            Hoa = float.Parse(Console.ReadLine());
-            Toan = float.Parse(Console.ReadLine());
-            Ly = float.Parse(Console.ReadLine());
-            if(Hoa < 10 & Toan < 10  & Ly < 10)
-            {
-                diemtrungbinh = (Hoa + Ly + Hoa) / 3;
-                Console.WriteLine("Diem Hoa: " + Hoa + "\nDiem Toan: " + Toan + "\nDiem Ly: " + Ly);
-                Console.WriteLine("Diem Trung Binh : {0}", diemtrungbinh);
-            } else
-            {
-                Console.WriteLine("So diem ban nhap khong hop le");
-            }
             
-              
 
-            
-                
+
+
+
+
         }
     }
 }
