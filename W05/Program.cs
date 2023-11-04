@@ -37,7 +37,7 @@ namespace mintan
                         Console.WriteLine("Fahrenheit to Celsius: " + FahrenheitToCelsius(fahrenheit));
                         break;
                     case 2:
-                        onsole.WriteLine("Enter Celsius: ");
+                        Console.WriteLine("Enter Celsius: ");
                         celsius = Double.Parse(Console.ReadLine());
                         Console.WriteLine("Celsius to Fahrenheit: " + CelsiusToFahrenheit(celsius));
                         break;
