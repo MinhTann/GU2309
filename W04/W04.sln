@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT02-W04", "..\BT02-W04\BT0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TH1-W04-NhieuChieu", "..\TH1-W04-NhieuChieu\TH1-W04-NhieuChieu.csproj", "{9B47C521-585E-4809-8A3B-47AC45E3B26F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bt2-W04-nhieuchieu", "..\bt2-W04-nhieuchieu\bt2-W04-nhieuchieu.csproj", "{1C7753EB-9E18-435F-80C1-729541170FD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{9B47C521-585E-4809-8A3B-47AC45E3B26F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B47C521-585E-4809-8A3B-47AC45E3B26F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B47C521-585E-4809-8A3B-47AC45E3B26F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7753EB-9E18-435F-80C1-729541170FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7753EB-9E18-435F-80C1-729541170FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7753EB-9E18-435F-80C1-729541170FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7753EB-9E18-435F-80C1-729541170FD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
