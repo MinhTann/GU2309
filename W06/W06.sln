@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W06-BT02", "..\W06-BT02\W06
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W06-Kethua-TH1", "..\W06-Kethua-TH1\W06-Kethua-TH1.csproj", "{7CD4EDD4-7CD7-4BA1-9F49-E842F57AF6B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W06-kethua-BT1", "..\W06-kethua-BT1\W06-kethua-BT1.csproj", "{DF492464-7B67-4290-8321-6C3D82512348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W06-kethua-BT2", "..\W06-kethua-BT2\W06-kethua-BT2.csproj", "{BD338798-22C5-43EA-9514-A04A0001D9B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{7CD4EDD4-7CD7-4BA1-9F49-E842F57AF6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CD4EDD4-7CD7-4BA1-9F49-E842F57AF6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CD4EDD4-7CD7-4BA1-9F49-E842F57AF6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF492464-7B67-4290-8321-6C3D82512348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF492464-7B67-4290-8321-6C3D82512348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF492464-7B67-4290-8321-6C3D82512348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF492464-7B67-4290-8321-6C3D82512348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD338798-22C5-43EA-9514-A04A0001D9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD338798-22C5-43EA-9514-A04A0001D9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD338798-22C5-43EA-9514-A04A0001D9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD338798-22C5-43EA-9514-A04A0001D9B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
