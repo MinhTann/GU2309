@@ -26,6 +26,7 @@ class Program
                 break;
             case 3:
                 Console.WriteLine("Robot vs Robot");
+                game.play2();
                 break;
         }
         
